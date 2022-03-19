@@ -83,14 +83,16 @@ are popped
 ### Traversals
 ```
 ```
-# Protype
+# Random Shit 
+
+## Protype
 ```
 The prototype is an object that is associated with every 
 functions and objects by default in JavaScript, where 
 function's prototype property is accessible and modifiable 
 and object's prototype property (aka attribute) is not visible.`
 ```
-# Single Page Application
+## Single Page Application
 ```
 A web application or website that interacts 
 with the user by dynamically rewriting the current web page 
@@ -99,7 +101,7 @@ method of a web browser loading entire new pages. The goal
 is faster transitions that make the website 
 feel more like a native app
 ```
-# SPAvsTraditional
+## SPAvsTraditional
 ```
 Traditional Web Pages are not dynamic and get all data for user 
 each time the page loads. Also creates a new HTML page each time 
@@ -110,11 +112,11 @@ it depends on, called dependencies. Typically, the receiving
 object is called a client and the passed-in ('injected') 
 object is called a service`, 
 ```
-# HowMuchCodeCoverage
+## HowMuchCodeCoverage
 ```
 Acceptable is ~80%
 ```
-# GarbageCollector
+## GarbageCollector
 ```
 Garbage collection is the process in which programs try to free up 
 memory space that is no longer used by objects.
