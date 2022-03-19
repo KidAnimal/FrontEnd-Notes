@@ -254,8 +254,6 @@ https://leetcode.com/discuss/interview-experience/320613/Amazon-or-Front-End-Eng
 
 *Tell me about a time you had a disagreement with a coworker?*
 
-*Possibly one or two more I can't remember*
-
 *Why Amazon?*
 
 *Tell me about a time you had a tight deadline?*
@@ -268,9 +266,38 @@ https://leetcode.com/discuss/interview-experience/320613/Amazon-or-Front-End-Eng
 
 *Time when you failed to deliver*
 
+*Which principle of Amazon culture excites you?*
+
+*How would you handle a crisis at work?*
+
+*Tell me about a time that you dealt with an angry customer.*
+
+*What do you do when you are given an unfamiliar task?*
+
+*If you are given two conflicting priorities from two separate managers, what will be your course of action?*
+    *Which one is your manager bruh? Whoever that is, is who you listen to*
+
+*How do you handle criticism?*
+
+*What metrics/tools do you use to drive positive change?*
+
+*If a supervisor asked you to do something unsafe that was clearly against the company’s policy, what would you do?*
+
+*Tell me about the time when the project you were handling was a success, and how would you translate that success when you work at Amazon.*
+
+*Tell me about a time when you were upto halfway through a project and had to pivot quickly due to an unexpected change? How did you handle it?*
+
+*If you are not getting along with your colleague due to personal conflicts, how would you not let it affect project work?*
+
 *What is a Deadlock*
 
     In an operating system, a deadlock occurs when a process or thread 
     enters a waiting state because a requested system resource is held by 
     another waiting process,which in turn is waiting for another resource 
     held by another waiting process.
+
+
+
+# OTHER LINKS 
+
+https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7#59bc
