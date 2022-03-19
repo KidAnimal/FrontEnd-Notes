@@ -154,6 +154,45 @@ functions and objects by default in JavaScript, where
 function's prototype property is accessible and modifiable 
 and object's prototype property (aka attribute) is not visible.`
 
+*My.Object.Foo vs My.Object.Foo*
+
+    The first example creates a new function object for each new object created with that constructor and assigns it to the property, the second example creates a single function that each new object references.
+
+    This means that for instance for your first example
+
+    var fooObj1 = new Foo();
+    var fooObj2 = new Foo();
+
+    alert(fooObj1.bar === fooObj2.bar) //false
+    while for the second
+
+    alert(fooObj1.bar === fooObj2.bar) //true
+    This is because in the first example the bar properties refer to 2 seperate but identical objects, while for the second they are the same.
+
+    In general the recommendation is that functions should be declared on the prototype to preserve memory, while other objects should be declared individually, unless you want to declare a "static" object that is shared among all objects created with that constructor.
+
+    Its easier to see the distinctions with normal objects or arrays rather than functions
+
+    function Foo(){
+        this.bar = [];
+    }
+    var fooObj1 = new Foo();
+    var fooObj2 = new Foo();
+
+    fooObj1.bar.push("x");
+    alert(fooObj2.bar) //[]
+    as opposed to:
+
+    function Foo(){
+    }
+
+    Foo.prototype.bar = []
+    var fooObj1 = new Foo();
+    var fooObj2 = new Foo();
+
+    fooObj1.bar.push("x");
+    alert(fooObj2.bar) //["x"]
+
 ### Single Page Application
 
 A web application or website that interacts 
