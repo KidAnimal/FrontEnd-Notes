@@ -67,6 +67,27 @@ are popped.
 
 ** Inorder traversal
 
+*Inorder (Left, Root, Right) : 4 2 5 1 3*
+Algorithm Inorder(tree)
+   1. Traverse the left subtree, i.e., call Inorder(left-subtree)
+   2. Visit the root.
+   3. Traverse the right subtree, i.e., call Inorder(right-subtree) 
+
+    var inorderTraversal = function(root) {
+        let result = [];
+        dfs(root);
+
+        function dfs(root) {
+            if(root != null) {
+                dfs(root.left);
+                result.push(root.val);
+                dfs(root.right);
+            }
+        }
+
+        return result;
+    };
+
 ** Preorder traversal
 
 ** Postorder traversal
