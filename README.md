@@ -213,7 +213,7 @@ https://leetcode.com/discuss/interview-experience/320613/Amazon-or-Front-End-Eng
 *Time when you failed to deliver
 
 *What is a Deadlock*
-        In an operating system, a deadlock occurs when a process or thread 
-        enters a waiting state because a requested system resource is held by 
-        another waiting process,which in turn is waiting for another resource 
-        held by another waiting process.
+            In an operating system, a deadlock occurs when a process or thread 
+            enters a waiting state because a requested system resource is held by 
+            another waiting process,which in turn is waiting for another resource 
+            held by another waiting process.
