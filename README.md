@@ -201,16 +201,16 @@ output, and most of them also have visual indicators
 https://leetcode.com/discuss/interview-experience/336727/Amazon-or-Front-End-Engineer-or-Seattle-or-July-2019-Reject/
 https://leetcode.com/discuss/interview-experience/320613/Amazon-or-Front-End-Engineer-or-NYC-or-June-2019-Reject/
 
-*Tell me about a time you had a tight deadline?
-*Tell me about a time you went about the status quo?
-*Tell me about a time you had a disagreement with a coworker?
-*Possibly one or two more I can't remember
-*Why Amazon?
-*Tell me about a time you had a tight deadline?
-*Tell me about a time you had a disagreement with a coworker?
-*How did u handle a tough feedback
-*Time when you went above and beyond your current role and contributed
-*Time when you failed to deliver
+*Tell me about a time you had a tight deadline?*
+*Tell me about a time you went about the status quo?*
+*Tell me about a time you had a disagreement with a coworker?*
+*Possibly one or two more I can't remember*
+*Why Amazon?*
+*Tell me about a time you had a tight deadline?*
+*Tell me about a time you had a disagreement with a coworker?*
+*How did u handle a tough feedback*
+*Time when you went above and beyond your current role and contributed*
+*Time when you failed to deliver*
 
 *What is a Deadlock*
 
