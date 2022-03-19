@@ -186,3 +186,34 @@ Acceptable is ~80%
 Garbage collection is the process in which programs try to free up 
 memory space that is no longer used by objects.
 
+### Screen-Readers 
+
+What are screen readers and how do they work? A screen reader is a form 
+of assistive technology (usually a software) used mostly (but not only) 
+by people with vision impairments. Screen readers provide audio and braille 
+output, and most of them also have visual indicators
+
+
+# Common Amazon Questions On Site Interview 
+
+### Behavioral 
+
+https://leetcode.com/discuss/interview-experience/336727/Amazon-or-Front-End-Engineer-or-Seattle-or-July-2019-Reject/
+https://leetcode.com/discuss/interview-experience/320613/Amazon-or-Front-End-Engineer-or-NYC-or-June-2019-Reject/
+
+*Tell me about a time you had a tight deadline?
+*Tell me about a time you went about the status quo?
+*Tell me about a time you had a disagreement with a coworker?
+*Possibly one or two more I can't remember
+*Why Amazon?
+*Tell me about a time you had a tight deadline?
+*Tell me about a time you had a disagreement with a coworker?
+*How did u handle a tough feedback
+*Time when you went above and beyond your current role and contributed
+*Time when you failed to deliver
+
+*What is a Deadlock
+In an operating system, a deadlock occurs when a process or thread 
+enters a waiting state because a requested system resource is held by 
+another waiting process,which in turn is waiting for another resource 
+held by another waiting process.
