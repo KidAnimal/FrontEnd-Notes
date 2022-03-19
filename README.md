@@ -86,9 +86,26 @@ Algorithm Inorder(tree)
         return result;
     };
 
-**Preorder traversal**
+*Uses of Inorder Traversals*
+In the case of binary search trees (BST), Inorder traversal gives nodes in non-decreasing order. 
+To get nodes of BST in non-increasing order, a variation of Inorder traversal where Inorder 
+traversal s reversed can be used. 
+Example: In order traversal for the above-given figure is 4 2 5 1 3.
 
-**Postorder traversal**
+*Preorder traversal*
+
+Algorithm Preorder(tree)
+   1. Visit the root.
+   2. Traverse the left subtree, i.e., call Preorder(left-subtree)
+   3. Traverse the right subtree, i.e., call Preorder(right-subtree) 
+
+
+*Postorder traversal*
+
+Algorithm Postorder(tree)
+   1. Traverse the left subtree, i.e., call Postorder(left-subtree)
+   2. Traverse the right subtree, i.e., call Postorder(right-subtree)
+   3. Visit the root.
 
 ### BFSvDFS
 ```
