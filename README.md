@@ -70,20 +70,20 @@ Algorithm Inorder(tree)
    2. Visit the root.
    3. Traverse the right subtree, i.e., call Inorder(right-subtree) 
 
-    var inorderTraversal = function(root) {
-        let result = [];
-        dfs(root);
+        var inorderTraversal = function(root) {
+            let result = [];
+            dfs(root);
 
-        function dfs(root) {
-            if(root != null) {
-                dfs(root.left);
-                result.push(root.val);
-                dfs(root.right);
+            function dfs(root) {
+                if(root != null) {
+                    dfs(root.left);
+                    result.push(root.val);
+                    dfs(root.right);
+                }
             }
-        }
 
-        return result;
-    };
+            return result;
+        };
 
 *Uses of Inorder Traversals*
 In the case of binary search trees (BST), Inorder traversal gives nodes in non-decreasing order. 
