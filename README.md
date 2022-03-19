@@ -12,12 +12,15 @@
     Use a minimalistic framework
 # Design Patterns
     Singleton
-# Map Reduce
+    
+# Distributed Computing 
+
+### Map Reduce
 In distributed Computing, map is 
 splitting all the inputs amongst many machines 
 Reduce takes them all and combines them to get one result`,
 
-# Distributed Caching 
+### Distributed Caching 
 
 An extension of the traditional concept of cache used 
 in a single locale. A distributed cache may span multiple 
@@ -25,7 +28,7 @@ servers so that it can grow in size and in transactional
 capacity. It is mainly used to store application data 
 residing in database and web session data.
 
-# Load Balancing
+### Load Balancing
 
 Load balancing is a core networking solution 
 used to distribute traffic across multiple servers in a 
