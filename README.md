@@ -299,6 +299,12 @@ https://leetcode.com/discuss/interview-experience/320613/Amazon-or-Front-End-Eng
     held by another waiting process.
 
 
+# Questions to Ask 
+
+What do you enjoy the most about working for Amazon?
+How can I help resolve some challenges that Amazon is facing today?
+What will define success in my job position?
+What will be my roles and responsibilities on a typical day, if I am hired?
 
 # OTHER LINKS 
 
