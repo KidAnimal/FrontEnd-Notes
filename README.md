@@ -71,6 +71,8 @@ Architectures
 ## Understand the Space and Time Complexity of 
 ## different Data Structures and when to use them
 
+![image](https://user-images.githubusercontent.com/46075082/159142247-d65a6c95-8293-4178-9da2-8bfa933aaf9e.png)
+
 ## Algorithms
 
 ### DivideandConquer
