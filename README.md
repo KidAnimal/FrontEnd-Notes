@@ -181,6 +181,14 @@ object is called a service`,
 
 Acceptable is ~80%
 
+### CSS FrameWork Examples 
+
+1. Bootstrap
+2. Tailwind CSS
+3. Foundation
+4. Bulma
+5. Skeleton
+
 ### GarbageCollector
 
 Garbage collection is the process in which programs try to free up 
@@ -202,14 +210,23 @@ https://leetcode.com/discuss/interview-experience/336727/Amazon-or-Front-End-Eng
 https://leetcode.com/discuss/interview-experience/320613/Amazon-or-Front-End-Engineer-or-NYC-or-June-2019-Reject/
 
 *Tell me about a time you had a tight deadline?*
+
 *Tell me about a time you went about the status quo?*
+
 *Tell me about a time you had a disagreement with a coworker?*
+
 *Possibly one or two more I can't remember*
+
 *Why Amazon?*
+
 *Tell me about a time you had a tight deadline?*
+
 *Tell me about a time you had a disagreement with a coworker?*
+
 *How did u handle a tough feedback*
+
 *Time when you went above and beyond your current role and contributed*
+
 *Time when you failed to deliver*
 
 *What is a Deadlock*
