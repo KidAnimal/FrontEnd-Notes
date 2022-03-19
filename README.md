@@ -62,11 +62,10 @@ two stages, first visited vertices are pushed into stack
 and second if there is no vertices then visited vertices 
 are popped.
 
-* DFS Algorithms 
+**DFS Algorithms** 
+*Inorder traversal*
 
-** Inorder traversal
-
-*Inorder (Left, Root, Right) : 4 2 5 1 3*
+Inorder (Left, Root, Right) : 4 2 5 1 3
 Algorithm Inorder(tree)
    1. Traverse the left subtree, i.e., call Inorder(left-subtree)
    2. Visit the root.
@@ -87,9 +86,9 @@ Algorithm Inorder(tree)
         return result;
     };
 
-** Preorder traversal
+**Preorder traversal**
 
-** Postorder traversal
+**Postorder traversal**
 
 ### BFSvDFS
 ```
