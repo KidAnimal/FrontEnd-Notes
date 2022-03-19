@@ -56,7 +56,6 @@ it is visited and marked then its adjacent are visited
 and stored in the queue. It is slower than DFS
 ```        
 ### DFS
-```
 DFS stands for Depth First Search is a edge based 
 technique. It uses the Stack data structure, performs 
 two stages, first visited vertices are pushed into stack 
@@ -92,7 +91,6 @@ Algorithm Inorder(tree)
 
 ** Postorder traversal
 
-```
 ### BFSvDFS
 ```
 DFS stands for Depth First Search is a edge based 
