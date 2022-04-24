@@ -195,6 +195,22 @@ and object's prototype property (aka attribute) is not visible.`
     fooObj1.bar.push("x");
     alert(fooObj2.bar) //["x"]
 
+
+### Hoisting 
+
+    // This console log will result in underfined 
+    console.log(foo);
+    var foo = 2; 
+    
+    // This will result in a console log of foo = 3
+    
+    foo = 3; 
+    console.log(foo);
+    var foo; 
+    
+    // With functions you can do things like define the function further down the 
+    // File and call it before its defined. 
+   
 ### Single Page Application
 
 A web application or website that interacts 
